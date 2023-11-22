@@ -27,11 +27,9 @@ autónomo) y ISP (Proveedor de servicios de internet), donde el número de
 sistema autónomo es es AS3352. Y su proveedor de servicios de internet
 es Telefónica de España.
 
-![](./image1.png){width="6.6930555555555555in"
-height="3.4229166666666666in"}
+![](./image1.png)
 
-![](./image2.png){width="6.6930555555555555in"
-height="8.167361111111111in"}
+![](./image2.png)
 
 **2. Servidores DNS**
 
@@ -50,8 +48,7 @@ los servidores específicos. Finalmente, se identificaron los servidores
 DNS específicos para el dominio elpozo.com: scen17.elpozo.com y
 scen15.elpozo.com.
 
-![](./image3.png){width="6.6930555555555555in"
-height="7.415277777777778in"}
+![](./image3.png)
 
 **3. Servidores de Correo**
 
@@ -68,8 +65,7 @@ utiliza los servicios de correo de Microsoft Exchange Online Protection
 para su correo electrónico. Este servicio es parte de Office 365 y
 proporciona seguridad y protección contra spam y malware.
 
-![](./image4.png){width="6.6930555555555555in"
-height="3.1333333333333333in"}
+![](./image4.png)
 
 **4. Subdominios**
 
@@ -86,8 +82,7 @@ internos y externos, subdominios relacionados con sitios web y blog,
 subdominios de campañas promocionales, entre otros. En la imagen de
 abajo mostramos los 26 dominios encontrados.
 
-![](./image5.png){width="3.7920133420822397in"
-height="6.612761373578302in"}
+![](./image5.png)
 
 **5. Información Adicional**
 
@@ -124,8 +119,6 @@ Comprender la estructura de subdominios de la empresa puede revelar
 áreas no protegidas adecuadamente o sistemas internos accesibles desde
 internet.
 
-![](./image6.png){width="5.015247156605424in"
-height="6.085632108486439in"}
+![](./image6.png)
 
-![](./image7.png){width="4.850694444444445in"
-height="10.118055555555555in"}
+![](./image7.png)
