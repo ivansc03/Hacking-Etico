@@ -1,6 +1,6 @@
-**Informe de Auditoría OSINT para \"El POZO\"**
+# **Informe de Auditoría OSINT para \"El POZO\"**
 
-**Introducción**
+## **Introducción**
 
 Este informe documenta la auditoría OSINT realizada para la empresa \"El
 POZO\". Se han utilizado diversas herramientas y técnicas para recopilar
@@ -8,7 +8,7 @@ información crucial sobre la infraestructura de la empresa. El objetivo
 es identificar posibles vulnerabilidades y fortalecer las medidas de
 seguridad.
 
-**1. Información Whois**
+## **1. Información Whois**
 
 **Herramienta Utilizada**: Comando whois.
 
@@ -31,7 +31,7 @@ es Telefónica de España.
 
 ![](./image2.png)
 
-**2. Servidores DNS**
+## **2. Servidores DNS**
 
 **Herramienta utilizada:** Comando dig +trade elpozo.com
 
@@ -50,7 +50,7 @@ scen15.elpozo.com.
 
 ![](./image3.png)
 
-**3. Servidores de Correo**
+## **3. Servidores de Correo**
 
 **Herramienta utilizada:** Comando dig elpozo.com MX.
 
@@ -67,7 +67,7 @@ proporciona seguridad y protección contra spam y malware.
 
 ![](./image4.png)
 
-**4. Subdominios**
+## **4. Subdominios**
 
 **Herramienta utilizada:** Sublist3r.
 
@@ -84,7 +84,7 @@ abajo mostramos los 26 dominios encontrados.
 
 ![](./image5.png)
 
-**5. Información Adicional**
+## **5. Información Adicional**
 
 **Herramienta utilizada:** Comando theHarvester.
 
