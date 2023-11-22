@@ -1,4 +1,4 @@
-# **Informe de Auditoría OSINT para \"El POZO\"**
+### **Informe de Auditoría OSINT para \"El POZO\"**
 
 ## **Introducción**
 
